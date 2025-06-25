@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+Nestled in a silver pendant shaped like a dhow sail, the Pearl of Lost Dhows gleams with the colors of the deep sea—turquoise, pearl-white, and hints of gold. Discovered along the rocky shores of Sur after a rare monsoon tide, this mystical amulet is said to hold the spirit of Omani seafarers long gone.
+
+When held close to the heart during the hour of Maghrib, the pearl glows softly and offers its bearer fleeting visions of the past: weathered hands raising sails, bustling souqs in Zanzibar, and whispered prayers under starlit skies. These glimpses vanish in moments—like sea foam on the sand—but leave behind the scent of frankincense and a haunting echo of songs sung across the waves.
+
+Legends say the pearl listens to the heart of its holder, revealing only what they are ready to remember—or what the sea wants them to know. Elders believe it is a gift from the sea spirits, meant to remind Omanis of their deep-rooted connection to courage, trade, and the vast, mysterious ocean that shaped their identity.
+=======
+**The Pearl of Lost Dhows**
+
+Nestled in a silver pendant shaped like a dhow sail, the *Pearl of Lost Dhows* gleams with the colors of the deep sea—turquoise, pearl-white, and hints of gold. Discovered along the rocky shores of Sur after a rare monsoon tide, this mystical amulet is said to hold the spirit of Omani seafarers long gone.
+
+When held close to the heart during the hour of Maghrib, the pearl glows softly and offers its bearer fleeting visions of the past: weathered hands raising sails, bustling souqs in Zanzibar, and whispered prayers under starlit skies. These glimpses vanish in moments—like sea foam on the sand—but leave behind the scent of frankincense and a haunting echo of songs sung across the waves.
+
+Legends say the pearl listens to the heart of its holder, revealing only what they are ready to remember—or what the sea wants them to know. Elders believe it is a gift from the sea spirits, meant to remind Omanis of their deep-rooted connection to courage, trade, and the vast, mysterious ocean that shaped their identity.
+>>>>>>> c61070e (Introduce Orb of Fleeting Moments)
